@@ -1,0 +1,47 @@
+name: Feature Request
+description: 描述希望改善的真实使用场景
+title: "[建议] "
+labels:
+  - "type:feature"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        建议进入讨论不代表已经承诺开发、价格或发布日期。请从使用场景出发，避免提交私人或受保密约束的内容。
+  - type: textarea
+    id: scenario
+    attributes:
+      label: 使用场景
+      description: 你在什么情况下遇到困难？
+    validations:
+      required: true
+  - type: textarea
+    id: workaround
+    attributes:
+      label: 当前做法
+      description: 你现在如何完成这件事？主要成本是什么？
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: 希望得到的结果
+      description: 描述结果，不必替产品决定具体实现。
+    validations:
+      required: true
+  - type: dropdown
+    id: frequency
+    attributes:
+      label: 发生频率
+      options:
+        - 每天多次
+        - 每天一次左右
+        - 每周数次
+        - 偶尔
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: 补充信息
+

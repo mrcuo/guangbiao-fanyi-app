@@ -1,0 +1,14 @@
+# 第三方内容说明
+
+Pointrans 的产品安装包包含第三方词典和发音数据。它们不因 Pointrans 产品本身保持闭源而改变各自的许可。
+
+当前使用的内容包括：
+
+- ECDICT 英中词典数据，适用 MIT License；
+- CC-CEDICT 中英词典数据，适用 Creative Commons Attribution-ShareAlike 4.0 International；
+- CMU Pronouncing Dictionary 英文发音数据，适用其随数据提供的再分发许可与免责声明。
+
+正式安装包会保留完整的许可文本、来源说明以及需要的归属信息。本页面是便于用户理解的摘要，不替代随安装包提供的完整许可文本。
+
+第三方项目名称和许可只用于必要的来源说明，不表示这些项目或其贡献者认可、赞助或支持 Pointrans。
+

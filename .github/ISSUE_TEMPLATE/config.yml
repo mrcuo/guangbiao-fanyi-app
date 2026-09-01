@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 使用问题与交流
+    url: https://github.com/mrcuo/guangbiao-fanyi-app/discussions
+    about: 不确定是否为软件缺陷时，请先在 Q&A 中提问
+  - name: 安全漏洞
+    url: https://github.com/mrcuo/guangbiao-fanyi-app/security/policy
+    about: 不要公开提交漏洞、凭据或疑似用户数据泄露
+

@@ -1,0 +1,16 @@
+.DS_Store
+.env
+.env.*
+*.cer
+*.key
+*.log
+*.p12
+*.pem
+*.pkg
+*.provisionprofile
+*.dmg
+*.zip
+.private/
+.review/
+release-artifacts/
+

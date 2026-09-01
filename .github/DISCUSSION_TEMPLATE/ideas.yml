@@ -1,0 +1,27 @@
+title: "[想法] "
+labels:
+  - "type:feature"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        欢迎从真实场景出发交流。讨论中的想法不代表功能、价格或发布日期承诺。
+  - type: textarea
+    id: scenario
+    attributes:
+      label: 使用场景
+    validations:
+      required: true
+  - type: textarea
+    id: friction
+    attributes:
+      label: 目前最费力的部分
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: 希望改善后的结果
+    validations:
+      required: true
+
