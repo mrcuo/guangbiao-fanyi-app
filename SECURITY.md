@@ -10,7 +10,7 @@
 
 请不要通过公开 Issue、Discussion、社交媒体或群聊披露安全漏洞、利用步骤、凭据或用户数据。
 
-公开仓库创建后，将启用 GitHub Private Vulnerability Reporting。正式发布前还必须配置并验证一个专用安全邮箱；在该私密入口可用之前，不开放公开安装包。
+本仓库已启用 GitHub Private Vulnerability Reporting。请从仓库的 Security 页面进入 Advisories，使用 “Report a vulnerability” 私下提交。正式发布前还必须配置并验证一个专用安全邮箱；在专用邮箱可用之前，不开放公开安装包。
 
 报告时请尽量提供：
 
@@ -31,4 +31,3 @@
 - 是否公开致谢由报告者意愿和事件情况共同决定。
 
 当前没有公开漏洞赏金计划。未经明确书面确认，不应假设存在奖金或安全港范围。
-
